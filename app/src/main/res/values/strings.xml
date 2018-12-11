@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyRolingBall</string>
+    <string name="str_reset">リセット</string>
+    <string name="str_ouen">頑張れ</string>
+</resources>
